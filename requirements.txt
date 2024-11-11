@@ -1,0 +1,4 @@
+python-telegram-bot
+psutil
+opencv-python
+Pillow
